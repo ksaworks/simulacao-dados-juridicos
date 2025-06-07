@@ -72,7 +72,7 @@ Criar um conjunto robusto de dados falsos (mas verossímeis) com milhares de pro
 
 ## 🖼️ Banner do Projeto
 
-![Banner](./A_digital_graphic_design_banner_titled_"Simulação_.png)
+![Banner](A_digital_graphic_design_banner_titled_Simulação_.png)
 
 ---
 
